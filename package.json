@@ -1,0 +1,17 @@
+{
+  "name": "react-shit",
+  "version": "1.0.0",
+  "description": "this is react app basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "om",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
